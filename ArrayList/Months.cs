@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListApp
 {
-    class Months
-    {
+    
         public class MontsOfYear
         {
             private string [] _iteams = 
@@ -33,5 +32,5 @@ namespace ListApp
 
             }
         }
-    }
+    
 }

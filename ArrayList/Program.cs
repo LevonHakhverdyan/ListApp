@@ -13,6 +13,9 @@ namespace ListApp
         {
             List<int> ll = new List<int>();
             List ll1 = new List();
+            MontsOfYear montsOfYear = new MontsOfYear();
+            int numberOfMont = montsOfYear["April"];
+            Console.WriteLine(numberOfMont);
             ll1.Add(12);
             ll1.Add(13);
             ll1.Add(14);
